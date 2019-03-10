@@ -9,6 +9,6 @@ active: about
 published: true
 ---
 
-Marty Yung is a CS Student who loves consumer tech.
+Marty is a CS Student who loves consumer tech.
 
 Contact me at {{site.email}}
